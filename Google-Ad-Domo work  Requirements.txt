@@ -1,0 +1,68 @@
+﻿Campaigns -> Insights and reports -> Search terms
+Deliverables
+Component library for light & dark mode
+Responsive and accessible front-end assets
+
+
+Tech / Implementation
+HTML, CSS, JS, Material UI / Bootstrap 5.3, SVG Icon (code)
+
+
+Design & Branding (colors and font)
+Below are the recommended colors, font families, and guidelines for applying colored fonts to headings and highlighted text, ensuring proper accessibility and contrast.
+
+
+Font Families:
+Primary: Open Sans (for clean, modern readability)
+Secondary: (Headings): Poppins(for strong visual hierarchy)
+
+
+
+
+
+
+Color palette / Dark mode palette
+
+
+Light: #2277D1 — Denim Blue
+Dark:  #C0DFFF — Pale Sky Blue
+
+
+Light: #C0DFFF — Pale Sky Blue
+Dark:  #9EEAF9 — Light Cyan
+
+
+Light: #343434 — Dark Charcoal
+Dark:  #FFFFFF — White
+
+
+Light: #FFFFFF — White
+Dark:  #343434 — Dark Charcoal
+
+
+Light: #FFFFFF — White
+Dark:  #343434 — Dark Charcoal
+
+
+Light: #343434 — Dark Charcoal
+Dark:  #343434 — Dark Charcoal
+
+
+Light: #FFFFFF — White
+Dark:  #030303 — Almost Black
+
+
+Light: #EDEEEF — Soft Light Gray
+Dark:  #030303 — Almost Black
+
+
+Description:
+
+
+Consolidate data into one clean, sortable table
+
+
+Add prominent "Add as Keyword" and "Add as Negative Keyword" buttons
+
+
+Improve visual hierarchy with better row separation and clear status indicators
